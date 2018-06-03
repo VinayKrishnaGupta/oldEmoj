@@ -7,6 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "SVProgressHUD.h"
+#import "WebServiceConstant.h"
+#import "WebServiceBaseClass.h"
+#import "ExceptionSingleton.h"
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
